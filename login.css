@@ -1,0 +1,42 @@
+body {
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  color : #471c9c;
+}
+
+aside {
+  width: 30%;
+  display : inline-block;
+  padding : 30px;
+}
+
+aside img {
+  border-radius:5%;
+  width: 100%;
+  margin:50px;
+}
+
+main {
+  width: 60%;
+  vertical-align:top;
+  display: inline-block;  
+  padding-top: 110px;
+  padding-left: 44px;
+}
+
+section, h1 {
+  display : inline-block;  
+  width : 100%;
+}
+h1 {
+  font-size:30pt;
+}
+h2 {
+  font-size:20pt;
+  margin-top: -10px;
+}
+h3 {
+  color: #808080;
+  font-size:12pt;
+  margin-top: -5px;
+}
